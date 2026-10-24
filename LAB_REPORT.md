@@ -14,7 +14,7 @@ Repository URL:
 
 ## Task 1. SonarQube on the starter code
 
-Commit of the starter, before any change:
+Commit of the starter, before any change: 91c07dc
 
 Table 1. SonarQube issues in the starter code
 
